@@ -1,3 +1,5 @@
+package Module1;
+
 public class Exercise09_09 {
     public static void main(String[] args) {
         // Create the three polygons required by the assignment
