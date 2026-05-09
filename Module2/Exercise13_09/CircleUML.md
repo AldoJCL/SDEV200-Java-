@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class Comparable~Circle~ {
         <<interface>>
@@ -37,3 +38,4 @@ classDiagram
 
     GeometricObject <|-- Circle
     Comparable~Circle~ <|.. Circle
+```
