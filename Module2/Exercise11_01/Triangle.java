@@ -1,4 +1,4 @@
-package Module2;
+
 
 public class Triangle extends GeometricObject {
     private double side1 = 1.0;
