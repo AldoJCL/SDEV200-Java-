@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Exercise34_01",
+            "request": "launch",
+            "mainClass": "Exercise34_01.Exercise34_01",
+            "vmArgs": "--module-path /Users/aldostudies/Downloads/javafx-sdk-17.0.19/lib --add-modules javafx.controls"
+        }
+    ]
+}
